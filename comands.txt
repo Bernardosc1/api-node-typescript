@@ -1,0 +1,16 @@
+Rodar o programa - yarn ts-node-dev .\src\index.ts    
+
+Instalar eslint para manutenção de codigo padronizado - npm init @eslint/config@latest      
+
+Instalar ts-node-dev para rodar arquivos ts em desenvolvimento - yarn add -D ts-node-dev
+
+Instalar ts e types para sugerir na hora de codar - yarn add -D typescript @types/express
+
+instalar yarn para gerenciar dependencias - npm install --global yarn
+
+Iniciar Yarn - yarn init
+
+Adicionar express para elaborar apis - yarn add express
+
+Instalar biblioteca que deixa mais intuitivo os status code da requisição -  yarn add http-status-code
+
